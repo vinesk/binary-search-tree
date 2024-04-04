@@ -1,0 +1,15 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "https://www.theodinproject.com/lessons/javascript-binary-search-trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "vinesk",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
